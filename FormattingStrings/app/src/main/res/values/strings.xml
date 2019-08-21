@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Formatting Strings</string>
+    <string name="my_string">This is %1$s</string>
+</resources>
